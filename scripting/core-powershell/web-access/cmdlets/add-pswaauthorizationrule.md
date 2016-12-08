@@ -1,552 +1,48 @@
-<div id="page">
-
-<div id="ux-header" class="ltr powershell" dir="ltr" ms.pgarea="header">
-
-<span id="singleCol"></span> <span id="doubleCol"></span> <span
-id="isMobile"></span>
-<div>
-
-<div class="row topRow" role="banner">
-
-<div class="top">
-
-<div class="left">
-
-[](https://msdn.microsoft.com/en-us "MSDN home"){.msdnLogoImg}
-<div class="clip70x15">
-
-![Microsoft
-Logo](https://i-technet.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636146814338182722){#msft-logo
-.msft-logo}
-
-</div>
-
-<div class="GrayPipeDiv clip1x18">
-
-![Gray
-Pipe](https://i-technet.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636146814338182722){.GrayPipe}
-
-</div>
-
-<div class="MegaBladeNavigation">
-
-<div class="megaBladeToc">
-
--   [Developer Network](javascript:void(0) "Developer Network")
-    -   [Downloads](javascript:void(0) "Downloads")
-        -   [Visual
-            Studio](https://www.visualstudio.com/downloads/download-visual-studio-vs "Visual Studio")
-        -   [MSDN subscription
-            access](https://msdn.microsoft.com//subscriptions "MSDN subscription access")
-        -   [SDKs](https://msdn.microsoft.com/microsoft-sdks-msdn "SDKs")
-        -   [Trial
-            software](https://msdn.microsoft.com/evalcenter "Trial software")
-    -   [Programs](javascript:void(0) "Programs")
-        -   [Subscriptions](https://msdn.microsoft.com/msdn-subscriptions-overview "Subscriptions")
-        -   [Students](https://msdn.microsoft.com/students-overview-msdn "Students")
-        -   [ISV](https://msdn.microsoft.com/applicationbuilder "ISV")
-        -   [Startups](https://www.microsoft.com/bizspark "Startups")
-        -   [TechRewards](https://rewards.msdn.microsoft.com/ "TechRewards")
-        -   [Events](http://events.msdn.microsoft.com/ "Events")
-    -   [Community](javascript:void(0) "Community")
-        -   [Magazine](https://msdn.microsoft.com/magazine/dd767791 "Magazine")
-        -   [Forums](https://social.msdn.microsoft.com/forums/ "Forums")
-        -   [Blogs](https://blogs.msdn.microsoft.com/ "Blogs")
-        -   [Channel 9](http://channel9.msdn.com/ "Channel 9")
-    -   [Documentation](javascript:void(0) "Documentation")
-        -   [APIs and
-            reference](https://msdn.microsoft.com/library "APIs and reference")
-        -   [Dev
-            centers](https://msdn.microsoft.com/developer-centers-msdn "Dev centers")
-        -   [Samples](https://code.msdn.microsoft.com/ "Samples")
-        -   [Retired
-            content](https://msdn.microsoft.com/retiredcontent "Retired content")
-
-</div>
-
-</div>
-
-[Developer
-Network](https://msdn.microsoft.com/en-us){.DevCenterFullName}
-[Developer](https://msdn.microsoft.com/en-us){.DevCenterShortName}
-
-</div>
-
-<div class="right" ms.cmpgrp="aux nav">
-
-<div id="signIn" aria-label="Profile button">
-
-<div class="profileImage">
-
-</div>
-
-[Sign
-in](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1481155774&rver=6.7.6640.0&wp=mcmbi&wlcxt=technet%24technet%24technet&wreply=https%3a%2f%2ftechnet.microsoft.com%2fen-us%2flibrary%2fjj592890%2528v%3dwps.630%2529.aspx&lc=1033&id=254354&mkt=en-us){.scarabLink}
-
-</div>
-
-<div class="auxNav">
-
-<div>
-
-<div id="Fragment_Subscriptions" data-fragmentname="Subscriptions"
-xmlns="http://www.w3.org/1999/xhtml">
-
-[MSDN
-subscriptions](https://msdn.microsoft.com/subscriptions/manage/hh442900){#Subscriptions_2153_1}
-
-</div>
-
-<div id="Fragment_GetTools" data-fragmentname="GetTools"
-xmlns="http://www.w3.org/1999/xhtml">
-
-[Get
-tools](http://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409&campaign=o~msft~msdn~gettools-header~dn308572){#GetTools_2153_3}
-
-</div>
-
-</div>
-
-<div>
-
-<div id="Fragment_SocialLinks" data-fragmentname="SocialLinks"
-xmlns="http://www.w3.org/1999/xhtml">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="row middleRow">
-
-<div class="expandTop">
-
-<div class="left">
-
-</div>
-
-<div class="right">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="buttomRowWrapper" class="bg_gray1">
-
-<div class="row buttomRow bg_gray1">
-
-<div class="bottom">
-
-<div class="left" role="navigation" aria-label="header toc"
-ms.cmpgrp="main nav">
-
-[](javascript:void(0)){#grip .menu-icon}
-<div id="Fragment_SiteLogo" data-fragmentname="SiteLogo"
-xmlns="http://www.w3.org/1999/xhtml">
-
-<div class="LinkWithImage leftImage">
-
-[![PowerShell](https://i-technet.sec.s-msft.com/en-us/Powershell/ux/library/dn966235.Powershell_32.png?isResponsive=true&Segments=http%3a%2f%2ftechnet.microsoft.com%2flibrary&isLibrary=true&OverwriteHostBase=https%3a%2f%2fmsdn.microsoft.com%2f&isMtpsRequest=true&ThemeBranding=Powershell&HideProfileLink=true&HideProfileText=true "PowerShell"){#Powershell_32}
-<span>PowerShell</span>](https://msdn.microsoft.com/powershell){#SiteLogo_15502_1}
-
-</div>
-
-</div>
-
-<div id="drawer">
-
-<div class="toc">
-
--   [Gallery](https://www.powershellgallery.com/ "Gallery")
--   [Documentation](javascript:void(0))
-    -   [Windows
-        PowerShell](https://msdn.microsoft.com/en-us/powershell/scripting/powershell-scripting "Windows PowerShell")
-    -   [Desired State
-        Configuration (DSC)](https://msdn.microsoft.com/en-us/powershell/dsc/overview "Desired State Configuration (DSC)")
-    -   [Just Enough
-        Administration (JEA)](https://msdn.microsoft.com/powershell/jea/readme "Just Enough Administration (JEA)")
-    -   [PowerShell Modules
-        Reference](https://msdn.microsoft.com/powershell/reference/readme "PowerShell Modules Reference")
-    -   [Windows PowerShell
-        SDK](https://msdn.microsoft.com/library/dd835506.aspx "Windows PowerShell SDK")
-    -   [PowerShell
-        Gallery](https://msdn.microsoft.com/en-us/powershell/gallery "PowerShell Gallery")
-    -   [Azure
-        PowerShell](https://msdn.microsoft.com/en-us/library/azure/jj156055.aspx "Azure PowerShell")
--   [Community](javascript:void(0))
-    -   [Announcements](https://msdn.microsoft.com//powershell/mt757324 "Announcements")
-    -   [Community
-        Links](https://msdn.microsoft.com//powershell/mt270381 "Community Links")
--   [Feedback](javascript:void(0))
-    -   [UserVoice](http://windowsserver.uservoice.com/forums/301869-powershell "UserVoice")
-    -   [Q&A
-        Submissions](https://www.surveymonkey.com/r/wcq7hf9 "Q&A Submissions")
-
-</div>
-
-</div>
-
-</div>
-
-<div class="right" ms.title="search" role="search">
-
-<div id="Fragment_SearchBox" data-fragmentname="SearchBox"
-xmlns="http://www.w3.org/1999/xhtml">
-
-<div class="SearchBox">
-
-<div id="search-finder-div" class="clip16x20">
-
-![search
-finder](https://i-technet.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636146814338182722){#search-finder
-.search-finder}
-
-</div>
-
-<div id="searchSplitter">
-
-</div>
-
-<div id="searchCloseIconDiv" class="clip16x20" tabindex="0">
-
-![search
-clear](https://i-technet.sec.s-msft.com/Areas/Centers/Themes/StandardDevCenter/Content/HeaderFooterSprite.png?v=636146814338182722){#searchCloseIcon
-.search-clear-x}
-
-</div>
-
-<div id="searchTextContainer" style="width: 0;">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="jumpInfo" style="display: none">
-
-We’re sorry. The content you requested has been removed. You’ll be auto
-redirected in 1 second.
-
-</div>
-
-<div id="breadcrumbs" ms.pgarea="body" ms.cmpgrp="breadcrumbs">
-
-<div id="breadcrumbDesktop" class="breadCrumb">
-
-<span
-class="breadcrumbEllipsis">[](https://technet.microsoft.com/en-us/library/bb978526.aspx "Scripting with Windows PowerShell")</span>
-<span>[<span>Windows and Windows Server Automation with Windows
-PowerShell</span>](https://technet.microsoft.com/en-us/library/mt156946.aspx "Windows and Windows Server Automation with Windows PowerShell")</span>
-<span>[<span>Windows Server 2012 R2 and Windows
-8.1</span>](https://technet.microsoft.com/en-us/library/dn249523(v=wps.630).aspx "Windows Server 2012 R2 and Windows 8.1")</span>
-<span class="breadcrumbDropSmall"> [<span>Windows PowerShell Web Access
-Cmdlets</span>](# "Windows PowerShell Web Access Cmdlets"){#breadcrumbDropDownButton}
-</span>
-
-</div>
-
-<div id="breadcrumbDropDownMenu">
-
-</div>
-
-<div id="breadcrumbTablet" class="breadCrumb">
-
-<span
-class="breadcrumbEllipsis">[](https://technet.microsoft.com/en-us/library/dn249523(v=wps.630).aspx "Windows Server 2012 R2 and Windows 8.1")</span>
-<span>[<span>Windows PowerShell Web Access
-Cmdlets</span>](https://technet.microsoft.com/en-us/library/jj592887(v=wps.630).aspx "Windows PowerShell Web Access Cmdlets")</span>
-<span
-class="breadcrumbDropSmall">[<span>Add-PswaAuthorizationRule</span>](# "Add-PswaAuthorizationRule"){#tocDropDownButton}</span>
-
-</div>
-
-<div id="tocDropDownMenu">
-
-</div>
-
-<div id="breadcrumbMobile" class="breadCrumb">
-
-<span
-class="breadcrumbEllipsis">[](https://technet.microsoft.com/en-us/library/jj592887(v=wps.630).aspx "Windows PowerShell Web Access Cmdlets")</span>
-<span
-class="breadcrumbDropSmall">[<span>Add-PswaAuthorizationRule</span>](# "Add-PswaAuthorizationRule"){#tocPopupButton}</span>
-
-</div>
-
-</div>
-
-<div id="tocPopupMenu">
-
-<div id="tocPopMenuClose" class="tocCloseLarge">
-
-</div>
-
-<div id="tocTitle">
-
-Add-PswaAuthorizationRule
-
-</div>
-
-</div>
-
-<div id="body" ms.pgarea="body">
-
-<span id="tabletView_large"></span> <span id="tabletView_small"></span>
-<span id="mobileView"></span>
-<div id="leftNav" ms.cmpgrp="left toc" role="navigation"
-aria-label="left toc">
-
-<div id="tocnav" class="ArchiveV2">
-
-<div class="tocunselected">
-
-<div id="tocExpandArea">
-
-<span class="toc_empty"></span> <span
-id="tocExpandButton">[](javascript:void(0))</span>
-
-</div>
-
-<div id="tocExpand">
-
-</div>
-
-</div>
-
-<div class="tocselected">
-
-</div>
-
-<div class="tocunselected">
-
-<div class="toclevel current" data-toclevel="1">
-
-[Add-PswaAuthorizationRule](https://technet.microsoft.com/en-us/library/jj592890(v=wps.630).aspx "Add-PswaAuthorizationRule")
-
-</div>
-
-<div class="toclevel" data-toclevel="1">
-
-[Get-PswaAuthorizationRule](https://technet.microsoft.com/en-us/library/jj592891(v=wps.630).aspx "Get-PswaAuthorizationRule")
-
-</div>
-
-<div class="toclevel" data-toclevel="1">
-
-[Install-PswaWebApplication](https://technet.microsoft.com/en-us/library/jj592894(v=wps.630).aspx "Install-PswaWebApplication")
-
-</div>
-
-<div class="toclevel" data-toclevel="1">
-
-[Remove-PswaAuthorizationRule](https://technet.microsoft.com/en-us/library/jj592893(v=wps.630).aspx "Remove-PswaAuthorizationRule")
-
-</div>
-
-<div class="toclevel" data-toclevel="1">
-
-[Test-PswaAuthorizationRule](https://technet.microsoft.com/en-us/library/jj592892(v=wps.630).aspx "Test-PswaAuthorizationRule")
-
-</div>
-
-<div class="toclevel" data-toclevel="1">
-
-[Uninstall-PswaWebApplication](https://technet.microsoft.com/en-us/library/jj592889(v=wps.630).aspx "Uninstall-PswaWebApplication")
-
-</div>
-
-</div>
-
-[<span id="tocMenuTogglerIcon" class="tocMenuCollapse" role="button"
-aria-expanded="true"
-aria-label="Table of contents menu"></span>](javascript:void(0)){#tocMenuToggler}
-<div id="tocMenuTogglerLabel">
-
-TOC
-
-</div>
-
-</div>
-
-<div style="display:none">
-
-<div id="CollapseLocalizeString">
-
-Collapse the table of content
-
-</div>
-
-<div id="ExpandLocalizeString">
-
-Expand the table of content
-
-</div>
-
-</div>
-
-<div>
-
-[](javascript:void(0)){#isd_archiveControlResponsive}
-<div id="isd_archiveInstrument" style="display:none">
-
-This documentation is archived and is not being maintained.
-
-</div>
-
-</div>
-
-</div>
-
-<div id="content" class="content" ms.cmpgrp="content body" role="main">
-
-<div id="archiveDisclaimerText" style="display:none">
-
-This documentation is archived and is not being maintained.
-
-</div>
-
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-<div class="topic" xmlns="http://www.w3.org/1999/xhtml"
-mtps="http://msdn2.microsoft.com/mtps"
-msxsl="urn:schemas-microsoft-com:xslt"
-cs="http://msdn.microsoft.com/en-us/">
-
-<div class="lw_vs">
-
-<div id="curversion">
-
-**Windows Server 2012 R2 and Windows 8.1**
-
-</div>
-
-<div id="versionclick">
-
-<div id="vsseperator" class="cl_lw_vs_seperator">
-
-</div>
-
-<div>
-
-<div>
-
-[Other Versions](javascript:void(0)){#vsLink}
-
-</div>
-
-<div class="cl_vs_arrow clip10x10">
-
-![](https://i-technet.sec.s-msft.com/Areas/Epx/Content/Images/ImageSprite.png?v=636146814391620512){#vsArrow
-.cl_lw_vs_arrow}
-
-</div>
-
-</div>
-
--   [Windows Server 2012 and Windows
-    8](/en-us/library/jj592890(v=wps.620).aspx)
-
-</div>
-
-</div>
-
-<div style="clear:both;">
-
-</div>
-
-<div id="mainSection">
-
-<div id="mainBody">
-
-Add-PswaAuthorizationRule {#add-pswaauthorizationrule-1 .heading}
--------------------------
-
-<div id="sectionSection0" class="section">
+---
+author: jpjofre
+description:
+external help file:
+keywords: powershell, cmdlet, web-access
+manager: carmonm
+ms.date: 2016-12-08
+ms.prod: powershell
+ms.technology: powershell
+ms.topic: reference
+online version:
+schema: 2.0.0
+title: Add-PswaAuthorizationRule
+---
+
+#  Add-PswaAuthorizationRule
+
+##  SYNOPSIS
 
 Adds a new authorization rule to the Windows PowerShell® Web Access
 authorization rule set.
 
-</div>
+## Syntax
 
-Syntax {#syntax .heading}
-------
+###  UserGroupNameComputerGroupName
+```
+Add-PswaAuthorizationRule -ComputerGroupName <String> -ConfigurationName <String> -UserGroupName <String[]> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
+```
 
-<div id="sectionSection1" class="section">
+###  UserGroupNameComputerName
+```
+Add-PswaAuthorizationRule -ComputerName <String> -ConfigurationName <String> -UserGroupName <String[]> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
+```
 
-<div id="code-snippet-1" class="codeSnippetContainer" xmlns="">
+###  UserNameComputerGroupName
+```
+Add-PswaAuthorizationRule [-UserName] <String[]> -ComputerGroupName <String> -ConfigurationName <String> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
+```
 
-<div class="codeSnippetContainerTabs">
+###  UserNameComputerName
+```
+Add-PswaAuthorizationRule [-UserName] <String[]> [-ComputerName] <String> [-ConfigurationName] <String> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
+```
 
-</div>
-
-<div class="codeSnippetContainerCodeContainer">
-
-<div class="codeSnippetToolBar">
-
-<div class="codeSnippetToolBarText">
-
-[Copy](javascript:if%20(window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_446abb50-31b7-45d3-b36a-0e6216e0820f'); "Copy to clipboard.")
-
-</div>
-
-</div>
-
-<div id="CodeSnippetContainerCode_446abb50-31b7-45d3-b36a-0e6216e0820f"
-class="codeSnippetContainerCode" dir="ltr">
-
-<div style="color:Black;">
-
-    Parameter Set: UserGroupNameComputerGroupName
-    Add-PswaAuthorizationRule -ComputerGroupName <String> -ConfigurationName <String> -UserGroupName <String[]> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
-
-    Parameter Set: UserGroupNameComputerName
-    Add-PswaAuthorizationRule -ComputerName <String> -ConfigurationName <String> -UserGroupName <String[]> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
-
-    Parameter Set: UserNameComputerGroupName
-    Add-PswaAuthorizationRule [-UserName] <String[]> -ComputerGroupName <String> -ConfigurationName <String> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
-
-    Parameter Set: UserNameComputerName
-    Add-PswaAuthorizationRule [-UserName] <String[]> [-ComputerName] <String> [-ConfigurationName] <String> [-Credential <PSCredential> ] [-Force] [-RuleName <String> ] [ <CommonParameters>]
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-\
-\
-
-</div>
-
-Detailed Description {#detailed-description .heading}
---------------------
-
-<div id="sectionSection2" class="section">
+## DESCRIPTION
 
 The **Add-PswaAuthorizationRule** cmdlet adds a new authorization rule
 to the Windows PowerShell® Web Access authorization rule set.
@@ -584,115 +80,68 @@ Windows PowerShell Web Access users, not the alternate credentials (the
 second set of credentials found in the **Optional connection settings**
 section of the sign-in page). For an example of this, see Example 6.
 
-</div>
+## Parameters
 
-Parameters {#parameters .heading}
-----------
-
-<div id="sectionSection4" class="section">
-
-### -ComputerGroupName&lt;String&gt; {#computergroupnamestring .subHeading}
-
-<div class="subSection">
+### -ComputerGroupName&lt;String&gt;
 
 Specifies the name of a computer group in Active Directory Domain
 Services (AD DS) or local groups to which this rule grants access.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | true                                 |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | True (ByPropertyName)                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -ComputerName&lt;String&gt; {#computernamestring .subHeading}
-
-<div class="subSection">
+### -ComputerName&lt;String&gt;
 
 Specifies the computer name to which this rule grants access.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | true                                 |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | True (ByPropertyName)                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -ConfigurationName&lt;String&gt; {#configurationnamestring .subHeading}
-
-<div class="subSection">
+### -ConfigurationName&lt;String&gt;
 
 Specifies the name of the Windows PowerShell session configuration, also
 known as runspace, to which this rule grants access.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | true                                 |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | True (ByPropertyName)                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -Credential&lt;PSCredential&gt; {#credentialpscredential .subHeading}
-
-<div class="subSection">
+### -Credential&lt;PSCredential&gt;
 
 Specifies a **PSCredential** object for a user account that you want to
 use to change Windows PowerShell Web Access authorization rules. If you
 do not add this parameter, the cmdlet uses the currently logged-on user
 account. To get a **PSCredential** object, which is required to add
 authorization rules remotely, run the
-[Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936) cmdlet.
+[Get-Credential](https://msdn.microsoft.com/powershell/reference/5.1/microsoft.powershell.security/Get-Credential) cmdlet.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | false                                |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | false                                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -Force {#force .subHeading}
-
-<div class="subSection">
+### -Force
 
 Forces the command to run without asking for user confirmation.\
 In addition, it also prompts for confirmation when you enter a simple or
@@ -701,144 +150,89 @@ fully qualified). Confirmation is requested for security reasons, so
 that you can use the simple name to add a computer only if the computer
 is in a workgroup.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | false                                |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | false                                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -RuleName&lt;String&gt; {#rulenamestring .subHeading}
-
-<div class="subSection">
+### -RuleName&lt;String&gt;
 
 Specifies the friendly name for this rule.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | false                                |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | True (ByPropertyName)                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -UserGroupName&lt;String\[\]&gt; {#usergroupnamestring .subHeading}
-
-<div class="subSection">
+### -UserGroupName&lt;String\[\]&gt;
 
 Specifies the name of one or more user groups in AD DS or local groups
 to which this rule grants access.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | true                                 |
-+--------------------------------------+--------------------------------------+
 | Position?                            | named                                |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | True (ByPropertyName)                |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
-
-### -UserName&lt;String\[\]&gt; {#usernamestring .subHeading}
-
-<div class="subSection">
+### -UserName&lt;String\[\]&gt;
 
 Specifies one or more users to which this rule grants access. The user
 name can be a local user account on the gateway computer or a user in AD
-DS.\
+DS.
 The format is `domain\user` or `computer\user`.
 
-\
-+--------------------------------------+--------------------------------------+
+|||  
+|-|-|
 | Aliases                              | none                                 |
-+--------------------------------------+--------------------------------------+
 | Required?                            | true                                 |
-+--------------------------------------+--------------------------------------+
 | Position?                            | 1                                    |
-+--------------------------------------+--------------------------------------+
 | Default Value                        | none                                 |
-+--------------------------------------+--------------------------------------+
 | Accept Pipeline Input?               | True (ByValue, ByPropertyName)       |
-+--------------------------------------+--------------------------------------+
 | Accept Wildcard Characters?          | false                                |
-+--------------------------------------+--------------------------------------+
 
-</div>
+### &lt;CommonParameters&gt;
 
-### &lt;CommonParameters&gt; {#commonparameters .subHeading}
+This cmdlet supports the common parameters:
+-Verbose,
+-Debug,
+-ErrorAction,
+-ErrorVariable,
+-OutBuffer,
+and -OutVariable.
+For more information, see
+[about_CommonParameters](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.core/about/about_commonparameters).
 
-<div class="subSection">
+## INPUTS
 
-This cmdlet supports the common parameters: -Verbose, -Debug,
--ErrorAction, -ErrorVariable, -OutBuffer, and -OutVariable. For more
-information, see    about\_CommonParameters
-(http://go.microsoft.com/fwlink/p/?LinkID=113216).
+###  String
 
-</div>
+This cmdlet accepts a string or an array of strings as input.
 
-</div>
+###  String\[\]
 
-Inputs {#inputs .heading}
-------
+This cmdlet accepts a string or an array of strings as input.
 
-<div id="sectionSection5" class="section">
+##  Outputs
 
-The input type is the type of the objects that you can pipe to the
-cmdlet.
+###   Microsoft.Management.PowerShellWebAccess.PswaAuthorizationRule
 
--   **String, String\[\]**
+This cmdlet returns the an authorization rule object.
 
-    This cmdlet accepts a string or an array of strings as input.
+## EXAMPLES
 
-    \
-
-</div>
-
-Outputs {#outputs .heading}
--------
-
-<div id="sectionSection6" class="section">
-
-The output type is the type of the objects that the cmdlet emits.
-
--   **Microsoft.Management.PowerShellWebAccess.PswaAuthorizationRule**
-
-</div>
-
-Examples {#examples .heading}
---------
-
-<div id="sectionSection8" class="section">
-
-### EXAMPLE 1 {#example-1 .subHeading}
-
-<div class="subSection">
+### EXAMPLE 1
 
 This example grants access to the session configuration *PSWAEndpoint*,
 a restricted runspace, on *srv2* for users in the *SMAdmins* group.\
@@ -849,154 +243,33 @@ can run. Defining a restricted runspace can prevent users from accessing
 other computers that are not in the allowed Windows PowerShell®
 runspace, thus offering a more secure connection. For more information
 on session configurations, see
-[about\_Session\_Configurations](https://technet.microsoft.com/library/dd819508.aspx)
-or the [Windows PowerShell Web Access
-Help](http://go.microsoft.com/fwlink/p/?LinkID=221050).
+[about_Session_Configurations](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.core/about/about_session_configurations)
+or the [Install and Use Windows PowerShell Web Access](../install-and-use-windows-powershell-web-access.md).
 
-\
-<div id="code-snippet-2" class="codeSnippetContainer" xmlns="">
+```PowerShell
+Add-PswaAuthorizationRule -ComputerName srv2.contoso.com -UserGroupName contoso\SMAdmins -ConfigurationName PSWAEndpoint
+```
 
-<div class="codeSnippetContainerTabs">
-
-<div class="codeSnippetContainerTabSingle" dir="ltr">
-
-[Windows PowerShell]()
-
-</div>
-
-</div>
-
-<div class="codeSnippetContainerCodeContainer">
-
-<div class="codeSnippetToolBar">
-
-<div class="codeSnippetToolBarText">
-
-[Copy](javascript:if%20(window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_1956327b-48b9-46a6-99ea-4be3c92590dc'); "Copy to clipboard.")
-
-</div>
-
-</div>
-
-<div id="CodeSnippetContainerCode_1956327b-48b9-46a6-99ea-4be3c92590dc"
-class="codeSnippetContainerCode" dir="ltr">
-
-<div style="color:Black;">
-
-    PS C:\> Add-PswaAuthorizationRule -ComputerName srv2.contoso.com -UserGroupName contoso\SMAdmins -ConfigurationName PSWAEndpoint
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-### EXAMPLE 2 {#example-2 .subHeading}
-
-<div class="subSection">
+### EXAMPLE 2
 
 This example grants access to the default Windows PowerShell session
 configuration, `Microsoft.PowerShell`, on *srv2* for users in the users
 named contoso\\user1, contoso\\user2, and contoso\\user3. This cmdlet
 creates three rules (1 per person).
 
-\
-<div id="code-snippet-3" class="codeSnippetContainer" xmlns="">
+```PowerShell
+Add-PswaAuthorizationRule –UserName contoso\user1, contoso\user2, contoso\user3 –ComputerName srv2.contoso.com -ConfigurationName Microsoft.PowerShell
+```
 
-<div class="codeSnippetContainerTabs">
-
-<div class="codeSnippetContainerTabSingle" dir="ltr">
-
-[Windows PowerShell]()
-
-</div>
-
-</div>
-
-<div class="codeSnippetContainerCodeContainer">
-
-<div class="codeSnippetToolBar">
-
-<div class="codeSnippetToolBarText">
-
-[Copy](javascript:if%20(window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_9a066cb7-a4b7-4bbe-865d-858c3119772f'); "Copy to clipboard.")
-
-</div>
-
-</div>
-
-<div id="CodeSnippetContainerCode_9a066cb7-a4b7-4bbe-865d-858c3119772f"
-class="codeSnippetContainerCode" dir="ltr">
-
-<div style="color:Black;">
-
-    PS C:\> Add-PswaAuthorizationRule –UserName contoso\user1, contoso\user2, contoso\user3 –ComputerName srv2.contoso.com -ConfigurationName Microsoft.PowerShell
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-### EXAMPLE 3 {#example-3 .subHeading}
-
-<div class="subSection">
+### EXAMPLE 3
 
 This example illustrates how to input user name values via the pipeline.
 
-\
-<div id="code-snippet-4" class="codeSnippetContainer" xmlns="">
+```
+"contoso\user1","contoso\user2" | Add-pswaAuthorizationRule –ComputerName srv2.contoso.com –ConfigurationName Microsoft.PowerShell
+```
 
-<div class="codeSnippetContainerTabs">
-
-<div class="codeSnippetContainerTabSingle" dir="ltr">
-
-[Windows PowerShell]()
-
-</div>
-
-</div>
-
-<div class="codeSnippetContainerCodeContainer">
-
-<div class="codeSnippetToolBar">
-
-<div class="codeSnippetToolBarText">
-
-[Copy](javascript:if%20(window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_99479652-ad96-4822-a969-222b637cd3f4'); "Copy to clipboard.")
-
-</div>
-
-</div>
-
-<div id="CodeSnippetContainerCode_99479652-ad96-4822-a969-222b637cd3f4"
-class="codeSnippetContainerCode" dir="ltr">
-
-<div style="color:Black;">
-
-    PS C:\> "contoso\user1","contoso\user2" | Add-pswaAuthorizationRule –ComputerName srv2.contoso.com –ConfigurationName Microsoft.PowerShell
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-### EXAMPLE 4 {#example-4 .subHeading}
-
-<div class="subSection">
+### EXAMPLE 4
 
 This example illustrates how all parameters take values from pipeline by
 property name.
