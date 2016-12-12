@@ -1,3 +1,15 @@
+---
+description:  
+manager:  carmonm
+ms.topic:  article
+author:  jpjofre
+ms.prod:  powershell
+keywords:  powershell,cmdlet
+ms.date:  2016-12-12
+title:  install pswawebapplication
+ms.technology:  powershell
+---
+
 <div id="page">
 
 <div id="ux-header" class="ltr powershell" dir="ltr" ms.pgarea="header">
@@ -1211,3 +1223,4 @@ available or IncludeLegacyWebTrendsScriptInGlobal feature flag is off
 </div>
 
 </div>
+

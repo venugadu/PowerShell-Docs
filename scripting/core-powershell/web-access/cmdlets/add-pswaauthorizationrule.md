@@ -1,17 +1,16 @@
 ---
-author: jpjofre
-description:
-external help file:
-keywords: powershell, cmdlet, web-access
-manager: carmonm
-ms.date: 2016-12-08
-ms.prod: powershell
-ms.technology: powershell
-ms.topic: reference
-online version:
-schema: 2.0.0
-title: Add-PswaAuthorizationRule
+description:  
+manager:  carmonm
+ms.topic:  article
+author:  jpjofre
+ms.prod:  powershell
+keywords:  powershell,cmdlet
+ms.date:  2016-12-12
+title:  add pswaauthorizationrule
+ms.technology:  powershell
+schema:   2.0.0
 ---
+
 
 #  Add-PswaAuthorizationRule
 
@@ -883,3 +882,4 @@ available or IncludeLegacyWebTrendsScriptInGlobal feature flag is off
 </div>
 
 </div>
+

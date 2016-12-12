@@ -1,3 +1,15 @@
+---
+description:  
+manager:  carmonm
+ms.topic:  article
+author:  jpjofre
+ms.prod:  powershell
+keywords:  powershell,cmdlet
+ms.date:  2016-12-12
+title:  web access cmdlets
+ms.technology:  powershell
+---
+
 #  Windows PowerShell Web Access Cmdlets
 
 This reference provides cmdlet descriptions and syntax for all Windows
@@ -53,3 +65,4 @@ you can run any of the following cmdlets:
 For more information about PowerShell Web Access, see the following:
 
 -   [Install and Use Windows PowerShell Web Access](../install-and-use-windows-powershell-web-access.md)
+
