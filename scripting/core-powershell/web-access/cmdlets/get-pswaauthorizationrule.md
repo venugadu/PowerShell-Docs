@@ -35,7 +35,7 @@ If neither the **Id** parameter nor the **RuleName** parameter is
 specified, then this cmdlet lists all rules. The **Id** parameter can be
 used to filter the results.
 
-## Parameters
+## PARAMETERS
 
 ### -Id&lt;Int32\[\]&gt;
 
@@ -84,7 +84,7 @@ This cmdlet accepts an array of integers or an array of string values as input.
 
 This cmdlet accepts an array of integers or an array of string values as input.
 
-##  Outputs
+##  OUTPUTS
 
 ###  Microsoft.Management.PowerShellWebAccess.PswaAuthorizationRule\[\]
 
