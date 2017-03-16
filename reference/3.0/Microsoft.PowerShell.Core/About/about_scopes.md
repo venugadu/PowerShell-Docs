@@ -349,6 +349,7 @@ First, to display the value of the $ConfirmPreference variable in
 the local scope, use the following command:
 
 C:\PS> $ConfirmPreference
+
 High
 
 Create a Scope.ps1 script that contains the following commands:
@@ -366,6 +367,7 @@ Next, test the current value of the $ConfirmPreference variable in the
 current scope.
 
 C:\PS> $ConfirmPreference
+
 High
 
 This example shows that changes to the value of a variable in the script
@@ -443,6 +445,7 @@ C:\PS> $ptest
 # 1
 
 C:\PS> $ptest = 2
+
 C:\PS> $ptest
 # 2
 
@@ -475,6 +478,7 @@ For example, the following commands create a $Cred variable in the
 local session and then use the $Cred variable in a remote command:
 
 $Cred = Get-Credential
+
 Invoke-Command $s {Remove-Item .\Test*.ps1 -Credential $Using:Cred}
 
 The Using scope was introduced in Windows PowerShell 3.0.
@@ -483,6 +487,7 @@ In Windows PowerShell 2.0, to indicate that a variable was created in
 the local session, use the following command format.
 
 $Cred = Get-Credential
+
 Invoke-Command $s {param($c) Remove-Item .\Test*.ps1 -Credential $c} -ArgumentList $Cred
 
 # SEE ALSO
